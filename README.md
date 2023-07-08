@@ -26,7 +26,6 @@ If you are part of a serious software engineering team and believe I have the ne
 <a href="https://twitter.com/Johneasykel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidinmichael" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chimdikeezekiel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidinmichael" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chimdikejohn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel iyebhora" height="30" width="40" /></a>
-<a href="/https://twitter.com/Johneasykel_in?t=rii6ga_bxaa7z2taqlazpa&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://twitter.com/davidmichael_in?t=rii6ga_bxaa7z2taqlazpa&s=08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
