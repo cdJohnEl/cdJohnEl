@@ -2,6 +2,8 @@
 
 <h5 align="center">I'm an Aspiring Software Engineer passionate about Tech and innovation, Open Source, Problem Solving and Cotinuous learning . Welcome to my GitHub profile!</h5>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Easykeljohn&label=Profile%20views&color=0e75b6&style=flat" alt="Easykeljohn" /> </p>
+
 ## About Me
 
 My name is John Chimdike Ezekiel. I am a musician with a strong passion for software engineering. I have a keen interest in DevOps, front-end, and back-end development. My goal is to utilize my unique skills in software engineering to solve problems and make a positive impact on the world.
