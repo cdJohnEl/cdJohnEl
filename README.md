@@ -1,6 +1,7 @@
-<h2 align="center"># Hi, I'm John Chimdike Ezekiel! 👋</h2>
+<h2 align="center"> Hi, I'm John Chimdike Ezekiel! 👋</h2>
 
-<h5 align="center">I'm an Aspiring Software Engineer passionate about Tech and innovation, Open Source, Problem Solving and Cotinuous learning . Welcome to my GitHub profile!</h5>
+<h5 align="center">I'm an Aspiring Software Engineer passionate about Tech and innovation, Open Source, Problem Solving and Cotinuous learning . 
+  Welcome to my GitHub profile!</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Easykeljohn&label=Profile%20views&color=0e75b6&style=flat" alt="Easykeljohn" /> </p>
 
