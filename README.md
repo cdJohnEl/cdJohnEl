@@ -16,6 +16,7 @@ If you are part of a serious software engineering team and believe I have the ne
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@easykelchimdikejohn)
 - 📫 How to reach me via Email on **easykelchimdikejohn@gmail.com**
+
 **Thank you for considering me, and I look forward to connecting with you!**
 
 <h3 align="left">Connect with me:</h3>
