@@ -5,7 +5,7 @@
 
 ## About Me
 
-My name is John Chimdike Ezekiel. I am a musician with a strong passion for software engineering. I have a keen interest in DevOps, front-end, and back-end development. My goal is to utilize my unique skills in software engineering to solve problems and make a positive impact on the world.
+My name is John Chimdike Ezekiel. I am an aspiring software engineering. I have a keen interest in DevOps, front-end, back-end development, and Open Source. My goal is to utilize my unique skills in software engineering to solve problems and make a positive impact on the world.
 
 Currently, I am undergoing training in the prestigious ALX SE program to become a full-stack software engineer. I am dedicated to expanding my knowledge and honing my skills in all areas of software development.
 
